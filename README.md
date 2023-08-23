@@ -2,6 +2,12 @@
 
 Simple cast for Laravel Eloquent models that allows you to cast a field to a non-null collection.
 
+## Installation
+
+```bash
+composer require jessegall/laravel-non-null-collection-cast
+```
+
 ## Usage
 
 ```php
