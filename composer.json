@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "JesseGall\\Laravel\\Database\\Casts": "src/"
+            "JesseGall\\Laravel\\Database\\Casts\\": "src/"
         }
     },
     "authors": [
